@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+
+.cartao{
+    display: flex;
+    background-color: white;
+    box-shadow: 0px 0px 0px black;
+    margin: 5px;
+    padding: 9px;
+    display: inline-block;
+    border-radius: 6px;
+    text-align: center;
+    border: 2px solid #cecece;
+    height:220px;
+    width: 320px;
+   
+}
+
+h2{
+    text-align: center;
+}
+
+.subt{
+    color: blueviolet;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap
+}
+.ui{
+    color: blue;
+}
+.remove{
+    text-decoration: none;
+}
+.org{
+    margin-top: 50px;
+}
+
+.org2{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
